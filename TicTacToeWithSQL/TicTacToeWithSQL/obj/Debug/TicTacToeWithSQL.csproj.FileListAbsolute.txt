@@ -1,0 +1,6 @@
+C:\Users\hstua\source\repos\TicTacToeWithSQL\TicTacToeWithSQL\bin\Debug\TicTacToeWithSQL.exe.config
+C:\Users\hstua\source\repos\TicTacToeWithSQL\TicTacToeWithSQL\bin\Debug\TicTacToeWithSQL.exe
+C:\Users\hstua\source\repos\TicTacToeWithSQL\TicTacToeWithSQL\bin\Debug\TicTacToeWithSQL.pdb
+C:\Users\hstua\source\repos\TicTacToeWithSQL\TicTacToeWithSQL\obj\Debug\TicTacToeWithSQL.csprojAssemblyReference.cache
+C:\Users\hstua\source\repos\TicTacToeWithSQL\TicTacToeWithSQL\obj\Debug\TicTacToeWithSQL.exe
+C:\Users\hstua\source\repos\TicTacToeWithSQL\TicTacToeWithSQL\obj\Debug\TicTacToeWithSQL.pdb
